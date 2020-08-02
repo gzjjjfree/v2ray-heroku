@@ -10,7 +10,7 @@
 
 **Heroku 的网络并不稳定，部署前请三思。**
 
-## 镜像 https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbclswl0827%2Fv2ray-heroku
+## 镜像
 
 本镜像不会因为大量占用资源而被封号。
 
